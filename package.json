@@ -1,0 +1,25 @@
+{
+  "name": "SiteEdvaldo",
+  "version": "1.0.0",
+  "description": "SetPoint",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HevertonGordiano/SiteEdvaldo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HevertonGordiano/SiteEdvaldo/issues"
+  },
+  "homepage": "https://github.com/HevertonGordiano/SiteEdvaldo#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
